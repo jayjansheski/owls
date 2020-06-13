@@ -1,6 +1,6 @@
 ---
-title: "Bash: Make & CD Into Directory"
-description: This is a post on My Blog about agile frameworks.
+title: "Bash · Make & CD Into Directory"
+description: Make and CD into a directory with nested path.
 date: 2020-06-12
 tags:
   - shell

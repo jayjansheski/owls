@@ -1,13 +1,11 @@
 ---
-title: Git · revert to previous commit.
-description: Revert a Git branch to a previous commit.
+title: Git · revert a branch to a previous commit
+description: Revert a Git branch to a previous commit
 date: 2020-06-13
 tags:
   - git
 layout: layouts/post.njk
 ---
-
-# Revert a Git branch to a previous commit
 
 ```bash
 git	 rebase -i <hash>
